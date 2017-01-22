@@ -61,7 +61,7 @@
             form{
                 width: 85%;
                 padding: 10%;
-                //background-color: #a8a8a8;
+                
                 margin: 0 auto;
             }
             @media screen and (max-width: 860px) {
@@ -89,7 +89,7 @@
                 <div class="checkbox">
                   <label><input type="checkbox"> Remember me</label>
                 </div>
-                <button style="border-radius: 30px; width: 8em;" type="submit" class="btn btn-default">Register</button>
+                <button style="border-radius: 30px; width: 8em; margin: 0 auto;" type="submit" class="btn btn-default">Log In</button>
               </form>
         </div>
     </body>
