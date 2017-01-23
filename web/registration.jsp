@@ -40,7 +40,6 @@
                 width: 100%;
                 background-color: #d98549;
                 padding: 2%;
-                
                 margin: 0 0 6vh 0;
                 text-align: center;
                 border: 1px solid #2979a9;
